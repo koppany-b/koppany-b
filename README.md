@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @koppany-b
 - 👀 I’m interested in cybersecurity and AI
-- 🌱 I’m currently learning AI with python and c#
+- 🌱 I’m currently studying Computer Science and Cybersecurity @ Oxford Brookes
 - 📫 How to reach me email at koppanybodoni@gmail.com
 
 <!---
